@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626902985157",
+    "project_id": "fir-waterapp-e1940",
+    "storage_bucket": "fir-waterapp-e1940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626902985157:android:90ff9a609de8d1d55603ac",
+        "android_client_info": {
+          "package_name": "com.example.water_reminer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626902985157-l1g835g1jrs15qi0srl6evfe9j4th042.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.water_reminer_app",
+            "certificate_hash": "db54810153f01f97bbe2029b700be88a06cf1dbe"
+          }
+        },
+        {
+          "client_id": "626902985157-hok7me5gbe4k9vu01rvq5e5fchfd1b6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVZNNHf8ShQdnIay1gUaAoMuRqc2C904"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626902985157-hok7me5gbe4k9vu01rvq5e5fchfd1b6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
